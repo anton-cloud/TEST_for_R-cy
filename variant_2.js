@@ -38,3 +38,4 @@ console.log("loadGrain([]) , ", loadGrain([]));
 // loadGrain([2, 4, 2]) // 0
 // loadGrain([7, 4]) // 0
 // loadGrain([]) // 0
+
